@@ -1,0 +1,48 @@
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\bin\Debug\WakeUpStrell!.exe.config
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\bin\Debug\WakeUpStrell!.exe
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\bin\Debug\WakeUpStrell!.pdb
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.csproj.AssemblyReference.cache
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.csproj.SuggestedBindingRedirects.cache
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\obj\Debug\MainWindow.g.cs
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\obj\Debug\App.g.cs
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!_MarkupCompile.cache
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!_MarkupCompile.lref
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\obj\Debug\MainWindow.baml
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.g.resources
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell_.Properties.Resources.resources
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.csproj.GenerateResource.cache
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.csproj.CoreCompileInputs.cache
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.exe
+C:\Users\strel\Desktop\Колледж\вариант для зачета\готовое\BigPack\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.pdb
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\bin\Debug\WakeUpStrell!.exe.config
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\bin\Debug\WakeUpStrell!.exe
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\bin\Debug\WakeUpStrell!.pdb
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.csproj.AssemblyReference.cache
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.csproj.SuggestedBindingRedirects.cache
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\MainWindow.g.cs
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\App.g.cs
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!_MarkupCompile.cache
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!_MarkupCompile.lref
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\MainWindow.baml
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.g.resources
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell_.Properties.Resources.resources
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.csproj.GenerateResource.cache
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.csproj.CoreCompileInputs.cache
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.exe
+C:\Users\strel\Desktop\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.pdb
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\bin\Debug\WakeUpStrell!.exe.config
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\bin\Debug\WakeUpStrell!.exe
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\bin\Debug\WakeUpStrell!.pdb
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.csproj.AssemblyReference.cache
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.csproj.SuggestedBindingRedirects.cache
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\MainWindow.g.cs
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\App.g.cs
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!_MarkupCompile.cache
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!_MarkupCompile.lref
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\MainWindow.baml
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.g.resources
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell_.Properties.Resources.resources
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.csproj.GenerateResource.cache
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.csproj.CoreCompileInputs.cache
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.exe
+D:\Колледж\!!!Будильник\WakeUpStrell!\WakeUpStrell!\obj\Debug\WakeUpStrell!.pdb
